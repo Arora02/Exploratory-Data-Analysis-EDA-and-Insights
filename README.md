@@ -18,10 +18,6 @@ _Click on the project title to view my projects! 🙂_
 
 In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 
-***
-
-## Part 2: Introduction to Data Analysis
-
 ### 🍷 [Case Study #1 Wine Quality](https://github.com/Arora02/Exploratory-Data-Analysis-EDA-and-Insights/blob/main/Case%20Study%201%20-%20Analysing%20Wine%20Quality.ipynb)
 
 A study on red and white wine samples and understanding whether certain types of wine and their qualities (alcohol
@@ -35,5 +31,4 @@ Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alt
 
 Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie?
 
-***
 ***

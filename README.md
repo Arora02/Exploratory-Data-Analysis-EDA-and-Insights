@@ -1,32 +1,34 @@
-# The Sparks Foundation
-## Data Science and Business Analytics Internship
-### Exploratory Data Analysis on Super Store
+# Exploratory-Data-Analysis-EDA-and-Insights
 
-![image](https://user-images.githubusercontent.com/81607668/127727120-a11f32fa-3042-4773-b54e-fd1a792fff2f.png)
-[Image credit](https://www.blogto.com/real-estate-toronto/2021/04/iconic-kims-convenience-store-for-sale-toronto/)
+Focus area: Data analysis using Python.
 
-#### Background
-Super Store is a small retail business located in the United States. They sell Furniture, Office Supplies and Technology products and their customers are the mass Consumer, Corporate and Home Offices. The data set contains sales, profit and geographical information of individual orders.
+🔑 **Key Learnings** :
+- Learn the data analysis process of wrangling, exploring, analyzing, and communicating data, and work with data in Python, using libraries like NumPy and Pandas.
+- Apply inferential statistics and probability to real-world scenarios, such as analyzing A/B tests and building supervised learning models.
+- Learn the data wrangling process of gathering, assessing, and cleaning data and use Python to wrangle data programmatically and prepare it for analysis.
+- Apply visualization principles to the data analysis process and explore data visually at multiple levels to find insights and create a compelling story.
 
-#### Business Task
-Analyse sales data and determine weak areas and opportunities to boost business growth.
+***
 
-#### Business Questions
-- Which Category is Best Selling and Most Profitable?
-- What are the Best Selling and Most Profitable Sub-Category?
-- Which is the Top Selling Sub-Category?
-- Which Customer Segment is Most Profitable?
-- Which is the Preferred Ship Mode?
-- Which Region is the Most Profitable?
-- Which City has the Highest Number of Sales?
+# 📚 Projects
 
-#### Tools
-Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
+_Click on the project title to view my projects! 🙂_
 
-#### Data Set
-The data set is publicly available on [Kaggle](https://www.kaggle.com/akashkothare/tsf-datasets).
+### 🌤 [Project #1 Explore Weather Trends](https://github.com/Arora02/Exploratory-Data-Analysis-EDA-and-Insights/blob/main/Project%201%20-%20Explore%20Weather%20Trends.ipynb)
 
-#### Posted in
-- [Medium: Exploratory Data Analysis on Super Store](https://medium.com/analytics-vidhya/exploratory-data-analysis-super-store-cb91c37bcb06?source=friends_link&sk=4da79b677c63a8ad63bce6ae84fb5a25)
-- [Kaggle: Sales Analysis on Super Store](https://www.kaggle.com/katiehuangx/sales-analysis-super-store)
+In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 
+### 🍷 [Case Study #1 Wine Quality](https://github.com/Arora02/Exploratory-Data-Analysis-EDA-and-Insights/blob/main/Case%20Study%201%20-%20Analysing%20Wine%20Quality.ipynb)
+
+A study on red and white wine samples and understanding whether certain types of wine and their qualities (alcohol
+level, sugar content and acidity level) are associated with higher wine quality
+
+### ⛽️ [Case Study #2 Fuel Economy](https://github.com/Arora02/Exploratory-Data-Analysis-EDA-and-Insights/blob/main/Case%20Study%202%20-%20Fuel%20Economy.ipynb)
+
+Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy.
+
+### 🎬 [Project #2 TMDb Movie Analysis](https://github.com/Arora02/Exploratory-Data-Analysis-EDA-and-Insights/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb)
+
+Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie?
+
+***
